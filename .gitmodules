@@ -1,0 +1,3 @@
+[submodule "ClavyMOSAICOImport/ClavySQLImportPlugin"]
+	path = ClavyMOSAICOImport/ClavySQLImportPlugin
+	url = git@github.com:gayoxo/ClavySQLImportPlugin.git
