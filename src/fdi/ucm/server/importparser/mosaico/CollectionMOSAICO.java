@@ -29,7 +29,7 @@ public class CollectionMOSAICO {
 		}
 		
 		System.out.println("Fase 1");
-		CompleteCollection C = CollectionMOSAICO_EXTRACT.Apply();
+		CompleteCollection C = CollectionMOSAICO_EXTRACT.Apply(args[1],args[2]);
 		
 
 		 try {
